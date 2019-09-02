@@ -10,5 +10,5 @@ adfs.loscam.com
 ||loscam.com
 ||office.com
 outlook.office.com
-||google.com||
+||google.com.hk
 !--------------------EOF-------------------------
