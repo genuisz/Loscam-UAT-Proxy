@@ -30,5 +30,6 @@ outlook.office.com
 @@||youdao.com
 @@||zhongsou.com
 @@|http://ime.baidu.jp
+@@||ipip.net
 !################Whitelist End##################
 !--------------------EOF-------------------------
