@@ -11,5 +11,24 @@ adfs.loscam.com
 ||office.com
 outlook.office.com
 ||google.com.hk
-@@0.0.0.0
+
+!################Whitelist Start################
+@@||aliyun.com
+@@||baidu.com
+@@||http2.golang.org
+@@||gov.cn
+@@||bt.neu6.edu.cn
+@@||qq.com
+@@||sina.cn
+@@||sina.com.cn
+@@||sogou.com
+@@||so.com
+@@||soso.com
+@@||taobao.com
+@@||weibo.com
+@@||yahoo.cn
+@@||youdao.com
+@@||zhongsou.com
+@@|http://ime.baidu.jp
+!################Whitelist End##################
 !--------------------EOF-------------------------
