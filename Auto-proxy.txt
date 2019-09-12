@@ -10,4 +10,5 @@
 ||loscam.com
 ||office.com
 ||outlook.office.com
+||zoom.us
 !--------------------EOF-------------------------
